@@ -7,11 +7,11 @@ class MessageSender:
     def __init__(self): 
         pass 
 
-    def send(self, phone, message):
+    def send(self, phoneNumber, message):
         apple_script = f'''
         tell application "Messages"
             set targetService to 1st service whose service type = iMessage
-            set targetBuddy to buddy "{phone}" of targetService
+            set targetBuddy to buddy "{phoneNumber}" of targetService
             send "{message}" to targetBuddy
         end tell
         '''
