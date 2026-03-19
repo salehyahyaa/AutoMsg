@@ -33,7 +33,8 @@ AutoMsg/
   src/
     main.py
     messages.py
-    contacts_example.py
+    messageSender.py
+    contacts.py
   requirements.txt
   .gitignore
   README.md
