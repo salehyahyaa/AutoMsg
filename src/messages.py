@@ -1,6 +1,6 @@
 from contacts import FAMILY, FRIENDS, ELDERS
 
-messeges = { 
+msgs = { 
     "ramadan": {
         
         FAMILY: "Ramdan Mubarak!!",

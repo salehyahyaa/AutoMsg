@@ -1,8 +1,7 @@
 import subprocess
 from contacts import * 
-from msgs import * 
+from src.messages import * 
 
 
-
-
-for i 
+def send_messege(messges): 
+    ...
