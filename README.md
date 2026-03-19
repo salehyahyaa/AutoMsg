@@ -13,41 +13,50 @@ Automated iMessage sender for sending personal messages to groups of contacts (f
 
 ## How It Works
 This project uses:
-- Python 
-- AppleScript (to control the Messages app)
-- subprocess (to execute AppleScript from Python)
-
-
-## Flow:
-Python → AppleScript → Messages App → Sends iMessage
+- Python  
+- AppleScript (to control the Messages app)  
+- subprocess (to execute AppleScript from Python)  
 ---
 
+
+## Flow
+```
+Python → AppleScript → Messages App → Sends iMessage
+```
+---
+
+
 ## Project Structure
+
+```
 AutoMsg/
-src/
-main.py
-messages.py
-contacts_example.py
-requirements.txt
-.gitignore
-README.md
+  src/
+    main.py
+    messages.py
+    contacts_example.py
+  requirements.txt
+  .gitignore
+  README.md
+```
 ---
 
 
 ## Contacts File (Important)
 `contacts.py` file is not included for privacy and security reasons.
-To use this project:
 
-1. add `contacts.py`
-2. Add your own names, phone numbers
+To use this project:
+1. add `contacts.py`  
+2. Add your own names, phone numbers  
 ---
 
 
 ## How to Run
+```
 cd src
 python3 main.py
+```
 ---
 
 
-## License 
-- MIT 
+## License
+- MIT
