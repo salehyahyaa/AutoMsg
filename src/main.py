@@ -1,6 +1,6 @@
-import subprocess
-from contacts import * 
-from src.messages import * 
+from messageSender import MessageSender
+from contacts import contacts
+from src.messages import msgs 
 
 
 def send_messege(messges): 
