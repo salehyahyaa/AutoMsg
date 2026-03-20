@@ -15,4 +15,4 @@ def send_messege(holiday, group):
     
 
 
-send_messege("eid", TESTING)
+send_messege(..., ...)

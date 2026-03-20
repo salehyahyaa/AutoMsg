@@ -1,6 +1,6 @@
 # AutoMsg
 Automated iMessage sender for sending personal messages to groups of contacts (family, friends, etc.). Use case for birthdays, holidays, etc.
----
+
 
 
 ## Features
@@ -8,7 +8,7 @@ Automated iMessage sender for sending personal messages to groups of contacts (f
 - Group-based messaging (family, friends, acquaintances)  
 - Different message templates per group  
 - Runs locally using the macOS Messages app  
----
+
 
 
 ## How It Works
@@ -16,7 +16,7 @@ This project uses:
 - Python  
 - AppleScript (to control the Messages app)  
 - subprocess (to execute AppleScript from Python)  
----
+
 
 
 ## Flow
