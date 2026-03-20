@@ -23,7 +23,7 @@ This project uses:
 ```
 Python → AppleScript → Messages App → Sends iMessage
 ```
----
+
 
 
 ## Project Structure
@@ -39,7 +39,7 @@ AutoMsg/
   .gitignore
   README.md
 ```
----
+
 
 
 ## Contacts File (Important)
@@ -48,7 +48,7 @@ AutoMsg/
 To use this project:
 1. add `contacts.py`  
 2. Add your own names, phone numbers  
----
+
 
 
 ## How to Run
@@ -56,7 +56,7 @@ To use this project:
 cd src
 python3 main.py
 ```
----
+
 
 
 ## License
