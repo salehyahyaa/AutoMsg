@@ -11,6 +11,14 @@ Automated iMessage sender for sending personal messages to groups of contacts (f
 
 
 
+## Contacts File (Important)
+`contacts.py` file is not included for privacy and security reasons.
+
+To use this project:
+1. add `contacts.py`  
+2. Add your own names, phone numbers  
+
+
 ## How It Works
 This project uses:
 - Python  
@@ -42,12 +50,15 @@ AutoMsg/
 ```
 
 
-## Contacts File (Important)
-`contacts.py` file is not included for privacy and security reasons.
 
-To use this project:
-1. add `contacts.py`  
-2. Add your own names, phone numbers  
+## Limitations
+
+- macOS only (relies on AppleScript and the Messages app)
+- Requires iMessage to be configured and logged in
+- Cannot send messages if the Messages app is closed or restricted
+- No built-in scheduling (messages send immediately)
+- Limited error handling for failed message delivery
+- Not suitable for large-scale or bulk messaging
 
 
 
