@@ -27,19 +27,19 @@ Python → AppleScript → Messages App → Sends iMessage
 
 
 ## Project Structure
-
 ```
 AutoMsg/
-  src/
-    main.py
-    messages.py
-    messageSender.py
-    contacts.py
-  requirements.txt
-  .gitignore
-  README.md
+│
+├── src/
+│   ├── main.py
+│   ├── messages.py
+│   ├── messageSender.py
+│   └── contacts.py
+│
+├── requirements.txt
+├── .gitignore
+└── README.md
 ```
-
 
 
 ## Contacts File (Important)
