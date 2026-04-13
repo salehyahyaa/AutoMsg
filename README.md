@@ -11,13 +11,13 @@ Automated iMessage sender for sending personal messages to groups of contacts (f
 
 
 
-## Using Example Files (Important)
+## Using Example Files
 `contacts.py` and `messages.py` are not included for privacy reasons. To use this project:
 
 1. Rename 
 ```
-- `contacts.example.py` → `contacts.py`
-- `messages.example.py` → `messages.py`
+`contacts.example.py` → `contacts.py`
+`messages.example.py` → `messages.py`
 ```
 
 2. Add your own 
