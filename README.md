@@ -58,10 +58,26 @@ AutoMsg/
 - Cannot send messages if the Messages app is closed or restricted
 - No built-in scheduling (messages send immediately)
 - Limited error handling for failed message delivery
-- Not suitable for large-scale or bulk messaging
 
 
 
+## Installation
+1. Clone the repository
+```bash
+git clone https://github.com/salehyahyaa/AutoMsg.git
+cd AutoMsg
+```
+
+2. Create and activate a virtual environment
+```bash
+python3 -m venv venv
+source venv/bin/activate
+```
+
+3. Install dependencies
+```bash
+pip install -r requirements.txt
+```
 ## How to Run
 ```
 cd src

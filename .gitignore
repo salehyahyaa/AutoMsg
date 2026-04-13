@@ -1,8 +1,8 @@
 __pycache__/
 *.pyc
 
-contacts.py 
-messages.py
+src/messages.py
+src/contacts.py 
 
 .DS_Store
 venv
