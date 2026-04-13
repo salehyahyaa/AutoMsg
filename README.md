@@ -12,9 +12,8 @@ Automated iMessage sender for sending personal messages to groups of contacts (f
 
 
 ## Using Example Files (Important)
-`contacts.py` and `messages.py` are not included for privacy reasons.
+`contacts.py` and `messages.py` are not included for privacy reasons. To use this project:
 
-To use this project:
 1. Rename 
 ```
 - `contacts.example.py` → `contacts.py`
