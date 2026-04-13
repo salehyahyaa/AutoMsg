@@ -16,12 +16,16 @@ Automated iMessage sender for sending personal messages to groups of contacts (f
 
 To use this project:
 1. Rename 
+```
 - `contacts.example.py` → `contacts.py`
 - `messages.example.py` → `messages.py`
+```
+
 2. Add your own 
+```
 - names and phone numbers in `contacts.py`
 - message templates in `messages.py`
-
+```
 
 
 ## How It Works
