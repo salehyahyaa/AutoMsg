@@ -1,14 +1,14 @@
 from contacts import FAMILY, FRIENDS, EXAMPLE3, EXAMPLE4
 
 msgs = { 
-    "ramadan": {
+    "EventName": {
         
         FAMILY: "Your message here",
         FRIENDS: "Example Message",
         EXAMPLE3: "Your message here",
     },
     
-    "eid": {
+    "EventName": {
         
         FAMILY: "Example Message",
         FRIENDS: "Your message here",
